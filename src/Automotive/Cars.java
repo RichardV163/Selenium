@@ -1,4 +1,4 @@
-package inheritanceDemo;
+package Automotive;
 
 public class Cars {
 

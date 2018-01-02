@@ -1,4 +1,6 @@
-package inheritanceDemo;
+package Automotive;
+
+import Automotive.Cars;
 
 public class BMW extends Cars {
     public BMW (int startSpeed){
